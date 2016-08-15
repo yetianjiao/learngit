@@ -20,4 +20,4 @@ yetianjiao
               ***
                *
 yangdechao
-我在分支YDC上进行了修改，并且在YTJ完成前跟master合并
+我在分支YDC上进行了修改，并且在YTJ完成前跟master合并，刚刚失败了，再来一次
