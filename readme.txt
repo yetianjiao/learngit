@@ -20,6 +20,4 @@ yetianjiao
               ***
                *
 yangdechao
-ytj
-ydc
 
